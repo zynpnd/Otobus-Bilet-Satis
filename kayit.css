@@ -1,0 +1,85 @@
+*{
+    margin:0px;
+    padding:0px;
+    border:0px;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+    border-spacing:0px;
+}
+body{
+    background-color:#edf0f5;
+    font-family:"Verdana", Lucida Grande, Tahoma, Arial,sans-serif;
+    font-size:13px;
+}
+.cerceve{
+        margin:15% auto;
+        width:297px;
+        height:235px;
+        padding:37px 25px 0 25px;
+        background:url('img/ekran.png');
+        }
+ .cerceve input[type=email], .cerceve input[type=password]
+{
+    width:190px;
+    padding:0 5px 0 5px;
+    height:46px;
+    border:1px solid #e1e1e1;
+    margin-bottom:12px;
+    border-radius:5px;
+    color:#9e9696;
+    float:left;
+}
+.cerceve p {
+    width: 90px;
+    padding: 15px 5px 0 0;
+    float: left;
+    font-size: 13px;
+}
+.cerceve .button {
+    width: 295px;
+    height: 46px;
+    border: 1px solid #a2c359;
+    margin-bottom: 12px;
+    
+    border-radius: 5px;
+    color: #525b3d;
+    background-color:#BC8F8F;
+    cursor: pointer;
+}
+
+.giris{
+        margin:15% auto;
+        width:297px;
+        height:350px;
+        padding:30px 25px 0 25px;
+        background-color:   #EFEBE9 ;
+        }
+ .giris input[type=email], .giris input[type=password], .giris input[type=text]
+{
+    width:190px;
+    padding:0 5px 0 5px;
+    height:46px;
+    border:1px solid #e1e1e1;
+    margin-bottom:12px;
+    border-radius:5px;
+    color:#9e9696;
+    float:left;
+}
+.giris p {
+    width: 90px;
+    padding: 15px 5px 0 0;
+    float: left;
+    font-size: 13px;
+}
+.giris .button {
+    width: 295px;
+    height: 46px;
+    border: 1px solid #a2c359;
+    margin-bottom: 12px;
+    
+    border-radius: 5px;
+    color: #525b3d;
+    background-color:#BC8F8F;
+    cursor: pointer;
+}
